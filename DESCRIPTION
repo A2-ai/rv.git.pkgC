@@ -1,0 +1,13 @@
+Package: rv.git.pkgC
+Title: Package Which Has Git and Repo Dependencies
+Version: 0.0.0.9000
+Authors@R: 
+    person("Wes", "Cummings", , "wes@a2-ai.com", role = c("aut", "cre"))
+Description: This package depends on one git package, which does not have any dependencies, and one repo package
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: 
+    rv.git.pkgA,
+    glue
