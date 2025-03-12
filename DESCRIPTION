@@ -11,4 +11,4 @@ RoxygenNote: 7.3.2
 Depends: 
     rv.git.pkgA,
     glue
-Remotes: github::a2-ai/rv.git.pkgA
+Remotes: github::wes-a2ai/rv.git.pkgA
